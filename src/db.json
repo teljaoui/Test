@@ -1,0 +1,44 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "nom": "Ordinateur Portable",
+        "description": "Puissant ordinateur portable pour un usage professionnel.",
+        "categorie": "Ordinateur Portable",
+        "quantite_en_stock": 10,
+        "prix_unitaire": 1200.00
+      },
+      {
+        "id": 2,
+        "nom": "Souris sans fil",
+        "description": "Souris ergonomique sans fil pour une expérience de bureau confortable.",
+        "categorie": "Périphérique",
+        "quantite_en_stock": 0,
+        "prix_unitaire": 25.99
+      },
+      {
+        "id": 3,
+        "nom": "Antivirus Pro",
+        "description": "Logiciel antivirus avancé pour protéger votre système contre les menaces en ligne.",
+        "categorie": "Logiciel",
+        "quantite_en_stock": 3,
+        "prix_unitaire": 49.99
+      },
+      {
+        "id": 4,
+        "nom": "Clavier mécanique",
+        "description": "Clavier mécanique rétroéclairé pour une expérience de frappe optimale.",
+        "categorie": "Périphérique",
+        "quantite_en_stock": 20,
+        "prix_unitaire": 79.99
+      },
+      {
+        "id": 5,
+        "nom": "Suite bureautique Pro",
+        "description": "Suite complète d'outils de productivité pour un usage professionnel.",
+        "categorie": "Logiciel",
+        "quantite_en_stock": 15,
+        "prix_unitaire": 129.99
+      }
+    ]
+  }
